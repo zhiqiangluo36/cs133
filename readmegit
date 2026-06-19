@@ -1,0 +1,9 @@
+verify your Git identity before committing:
+
+git config --global user.name
+git config --global user.email
+
+If they're incorrect, set them:
+
+git config --global user.name "Your Name"
+git config --global user.email "your_email@example.com"
